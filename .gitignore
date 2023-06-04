@@ -1,3 +1,10 @@
+# Folder
+data/
+# Files
+train.tsv
+test.tsv
+validation.tsv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
