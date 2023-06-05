@@ -1,6 +1,8 @@
 # Criar Áudio Dataset
 Ferramenta para criar dataset de áudio utilizando Wav2Vec2 para ajudar a eliminar ruído, permitindo que ao gravar os áudios tudo esteja pronto: Áudios separados por frases e contendo somente falas e, um arquivo contendo a descrição de cada um dos áudios.
 
+Vídeo explicando como tudo funciona: https://www.youtube.com/watch?v=SsMZzxYiJCI
+
 ## Instalações e preparações
 
 ### Pré-requisitos
